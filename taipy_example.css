@@ -1,0 +1,25 @@
+.custom_text {
+    font-size: 32px;
+    color: #e45d22;
+    font-weight: bold;
+    }
+.page-background {
+        background-color: #f3f3f2; /* Light gray background color */
+        height: 100vh; /* Full viewport height */
+        margin: 0;
+        padding: 20px; /* Optional padding */
+        box-sizing: border-box;
+    }
+    .center-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Full viewport height */
+        text-align: center;
+    }
+    .card-bg {
+        size:20px;
+        font-weight: bold;
+        color:rgb(10, 24, 96);
+        background-color:#e45d22;
+      }    
