@@ -1,0 +1,27 @@
+strong, b {
+    font-weight: bold; /* This is equivalent to 700 */
+    color: #e25c22;
+}
+
+.taipy-watermark{
+    display: none;
+
+}
+.taipy-light,.css-7g81c7,:root,.css-16fw218{
+    background-color: #f2f2f2;
+
+}
+.css-1st6821{
+    background-color: white;
+}
+.h2 {
+    color: #e25c22;
+    padding-left: 40px;
+    text-align: center;
+    width: 100%;
+    margin: 0; 
+}
+.css-inwyue{
+    justify-content: center;
+
+}
